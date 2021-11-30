@@ -2,7 +2,7 @@
 <div style="display: "flex" " align="center">
   <a href="https://github.com/israferreira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=israferreira&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israferreira&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 ##   Total de visitas no meu perfil 😎   ##
