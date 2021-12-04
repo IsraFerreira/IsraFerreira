@@ -6,7 +6,7 @@
 
 <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30px"> Também sou um <b>Design gráfico entusiasta</b>  Busco agora me tornar um desenvolvedor potencialmente full stack. 
 </br>
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/powerup.gif" width="30px"> Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! 
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/powerup.gif" width="25px"> Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! 
 </em>
 </p>
 
