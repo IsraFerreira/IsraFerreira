@@ -14,8 +14,8 @@
   <a href="https://github.com/israferreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=israferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israferreira&layout=compact&langs_count=7&theme=tokyonight"/>
-  </div>
-<center>
+
+
 
 ##   Total de visitas no meu perfil <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="45px">   
  <p align="center"> 
@@ -24,7 +24,7 @@
   
 ## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="55px">
 
-<div align="center">
+
   <a href = "mailto:israel.fnds@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/israel-ferreira-b8738715a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
