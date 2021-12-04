@@ -47,7 +47,7 @@
 </br>
 </br>
 
- <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200px"/>
+ <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200px"/>  <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="40px">
 
  ##
 
@@ -64,8 +64,13 @@
   <a href="https://www.linkedin.com/in/israel-ferreira-b8738715a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
   
-  
+  <div align="center">
 
+## Obrigado pela visita! 
+
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/wave.gif" >
+
+</div>
 <!---
 IsraFerreira/IsraFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
