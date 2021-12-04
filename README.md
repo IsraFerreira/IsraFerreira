@@ -15,12 +15,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=israferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 
-##   Total de visitas no meu perfil <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="40px">   
+##   Total de visitas no meu perfil <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="45px">   
  <p align="center"> 
    <img alingn="160em" src="https://profile-counter.glitch.me/israferreira/count.svg" />
  </p>
   
-## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="30px">
+## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="45px">
 
 <div>
   <a href = "mailto:israel.fnds@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
