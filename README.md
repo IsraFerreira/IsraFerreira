@@ -69,7 +69,7 @@
 <br>
 <br>
 
-<h1> Obrigado pela visita! </h1>
+<h2> Obrigado pela visita! </h2>
 
 <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/wave.gif" >
 
