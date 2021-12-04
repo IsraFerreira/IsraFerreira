@@ -1,4 +1,4 @@
-## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="29px"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! 
+## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="29px"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! ##
 <div align="center">
   <a href="https://github.com/israferreira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=israferreira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
