@@ -48,7 +48,7 @@
  <p align="center"> 
    <img alingn="160em" src="https://profile-counter.glitch.me/israferreira/count.svg" />
  </p>
- <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=purple&label=Visualizações+do+perfil&style=flat-square" align="center"/>
+ <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=violet&label=Visualizações+do+perfil&style=flat-square" align="center"/>
 
  </div>
  <div align="center">
