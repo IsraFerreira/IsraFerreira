@@ -19,7 +19,7 @@
 <div align="center">
 
 
-##   Minhas Habilidades <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Medal.gif" width="45px">   
+##   Minhas Habilidades <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Medal.gif" width="35px">   
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 
@@ -48,6 +48,7 @@
  <p align="center"> 
    <img alingn="160em" src="https://profile-counter.glitch.me/israferreira/count.svg" />
  </p>
+ <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="center"/>
 
  </div>
  <div align="center">
