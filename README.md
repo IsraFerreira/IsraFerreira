@@ -20,7 +20,7 @@
    <img alingn="160em" src="https://profile-counter.glitch.me/israferreira/count.svg" />
  </p>
   
-## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="45px">
+## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="55px">
 
 <div>
   <a href = "mailto:israel.fnds@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
