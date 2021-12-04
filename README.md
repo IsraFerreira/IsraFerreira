@@ -44,10 +44,6 @@
 <div align="center">
 
 
-##   Total de visitas no meu perfil <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="45px">   
- <p align="center"> 
-   <img alingn="160em" src="https://profile-counter.glitch.me/israferreira/count.svg" />
- </p>
  <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200px"/>
 
  </div>
