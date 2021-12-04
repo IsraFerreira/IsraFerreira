@@ -2,8 +2,10 @@
 
 <p>
 <em>
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="30px"> Sou formado no curso de <b>Desenvolvimento de Jogos Digitais</b>, e pós graduado em <b>Segurança da informação (2020)</b> e <b>Business Intelligence e Big Data (2021)</b>. 
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30px"> Também sou um <b>Design gráfico entusiasta</b>  Busco agora me tornar um desenvolvedor potencialmente full stack.
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="30px"> Sou formado no curso de <b>Desenvolvimento de Jogos Digitais</b>, e pós graduado em <b>Segurança da informação (2020)</b> e <b>Business Intelligence e Big Data (2021)</b>.</br>
+
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30px"> Também sou um <b>Design gráfico entusiasta</b>  Busco agora me tornar um desenvolvedor potencialmente full stack. 
+</br>
 Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! 
 </em>
 </p>
