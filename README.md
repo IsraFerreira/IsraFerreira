@@ -45,13 +45,12 @@
 
 </br>
 </br>
+</br>
 
  <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200px"/>
 
  ##
- 
-</br>
-</br>
+
 <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/mario.gif" alt="JogoMario" width="980">
 </br>
 </br>
