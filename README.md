@@ -7,7 +7,6 @@
 <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30px"> Também sou um <b>Design gráfico entusiasta</b>, busco agora me tornar um desenvolvedor potencialmente full stack. 
 </br>
 <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/powerup.gif" width="25px"> Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Rocket.gif" width="30px">
-   Nos meus repositórios você poderá encontrar guias que faço em forma de estudos, de várias linguagens de programação e marcação (Markdown, HTML 5 e CSS 3, JavaScript, Java, MySQL) e também projetos onde coloco em prática minhas habilidades. 
 
 </em>
 </p>
@@ -20,7 +19,7 @@
 
 <p>
  <em>
-
+   Nos meus repositórios você poderá encontrar guias que faço em forma de estudos, de várias linguagens de programação e marcação (Markdown, HTML 5 e CSS 3, JavaScript, Java, MySQL) e também projetos onde coloco em prática minhas habilidades. 
  </em>
 </p>
   
