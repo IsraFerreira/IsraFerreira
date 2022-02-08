@@ -16,6 +16,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israferreira&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<p>
+ <em>
+   Nos meus repositórios você poderá encontrar guias que faço em forma de estudos, de várias linguagens de programação e marcação (Markdown, HTML 5 e CSS 3, JavaScript, Java, MySQL) e também projetos onde coloco em prática minhas habilidades. 
+ </em>
+</p>
+  
+  
 <div align="center">
 
 
