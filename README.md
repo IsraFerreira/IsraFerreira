@@ -1,4 +1,4 @@
-## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="29px"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! ##
+## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="10px"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! ##
 
 <p>
 <em>
