@@ -1,12 +1,12 @@
-## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="10px"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! ##
+## <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Hi.gif" width="30"> Olá, eu sou o Israel Ferreira, seja bem vindo ao meu mundinho de programação!! ##
 
 <p>
 <em>
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="30px"> Sou formado no curso de <b>Desenvolvimento de Jogos Digitais</b>, e pós graduado em <b>Segurança da informação (2020)</b> e <b>Business Intelligence e Big Data (2021)</b>.</br>
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="30"> Sou formado no curso de <b>Desenvolvimento de Jogos Digitais</b>, e pós graduado em <b>Segurança da informação (2020)</b> e <b>Business Intelligence e Big Data (2021)</b>.</br>
 
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30px"> Também sou um <b>Design gráfico entusiasta</b>, busco agora me tornar um desenvolvedor potencialmente full stack. 
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Designer.gif" width="30"> Também sou um <b>Design gráfico entusiasta</b>, busco agora me tornar um desenvolvedor potencialmente full stack. 
 </br>
-<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/powerup.gif" width="25px"> Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Rocket.gif" width="30px">
+<img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/powerup.gif" width="25"> Tenho o objetivo constante de melhorar a mim mesmo e, por isso, estou nessa plataforma. Vamos crescer juntos! <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Rocket.gif" width="30">
 
 </em>
 </p>
@@ -29,7 +29,7 @@
 <div align="center">
 
 
-##   Minhas Habilidades <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Medal.gif" width="35px">   
+##   Minhas Habilidades <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Medal.gif" width="35">   
  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 
@@ -61,7 +61,7 @@
 </br>
 </br>
 
- <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200px"/>  <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="40px">
+ <img src="https://komarev.com/ghpvc/?username=IsraFerreira&color=blue&label=Visualizações+do+perfil&style=flat-square" align="center" width="200"/>  <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Developer.gif" width="40">
 
  ##
 
@@ -71,7 +71,7 @@
  </div>
  <div align="center">
   
-## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="55px">
+## Vamos entrar em contato. <img src="https://github.com/IsraFerreira/IsraFerreira/blob/main/Assets/Handshake.gif" width="55">
 
 
   <a href = "mailto:israel.fnds@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
